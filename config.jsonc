@@ -1,0 +1,9 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 24,
+  "spacing": 5,
+  "modules-left": ["tray"],
+  "modules-center": ["clock"],
+  "modules-right": ["idle_inhibitor","cpu","memory","battery","pulseaudio"]
+}
